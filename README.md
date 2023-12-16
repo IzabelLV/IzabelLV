@@ -1,5 +1,5 @@
 <h1 align="center">I'm Bel</h1>
-<h3 align="left">C++ is my favourite language.</h3>
+<h3 align="left">I'm a C++ developer</h3>
 <p align="left">
 </p>
 
