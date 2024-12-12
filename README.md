@@ -6,6 +6,7 @@
 - 🧑‍🏫 I aim to become a senior **C++ developer**.
 - 🏆 Successfully completed **Strypes Lab** for C++ in 2024, 2.3-year program Software Development at **ITstep** and the full path for C++ development at **SoftUni**.
 - 🎮 I enjoy developing for fun projects with **Raylib**, experimenting with **Arduino** and **Engino** robots.
+- 🔋 Participation in programming seminars
 
 ### 🚀 Languages and Tools:
 <p align="left">
